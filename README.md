@@ -21,4 +21,4 @@ I use a zip server from BSDS that [LkPrtctrd](https://github.com/LkPrtctrd) modi
 
 3: Enjoy playing BSDS-V52!
 
-![BSDS-V52]()
+![BSDS-V52](https://github.com/BrawlStarsApkZip/BSDS-V52/blob/main/menu.png)
